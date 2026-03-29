@@ -1,12 +1,5 @@
 # Welcome to CyberNexus- AI-Powered Threat Intelligence Platform
 
-## Project Documentation
-
-This is the **Development Repository** containing the source code and live deployment. 
-For the full academic submission, including Architecture, PPT, Agile Docs, and Research, please visit the main repository:
-
-🔗 **Main Documentation Repo:** [Click Here to View Documentation](https://github.com/Mamatha07-T/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard)
-
 ## Project info
 
 🔗 **URL**: https://cybernexus-seven.vercel.app/
